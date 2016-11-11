@@ -24,7 +24,7 @@ def gen_credential():
         return sub_credential(UID, KEY)
 
 def sub_credential(sub_UID, sub_KEY):
-        URL='GOOGLE URL MUNG A'
+        URL='YOUR GOOGLE FORM URL'
         SUBM = {'ENTRY MUNG': sub_UID, 'ENTRY 2 MUNG': sub_KEY}
         try:
                 ENCAP_DATA = urlencode(SUBM)
