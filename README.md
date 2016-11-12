@@ -1,4 +1,4 @@
-# XRYPTA
+# RedApple
 A malware studies project
 --------------------------
 
