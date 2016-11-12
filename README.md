@@ -7,4 +7,6 @@ I, SchynWong (Mikhail), do not bare guilty for anyone who shall use this script 
 So ...
 Enjoy my piece of code, and have a great day ahead.
 
+Ref: http://null-byte.wonderhowto.com/how-to/create-encryption-program-with-python-0164249
+
 #EOL
