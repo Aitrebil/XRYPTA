@@ -133,4 +133,4 @@ if __name__ == '__main__':
                         else:
                                 post_infected()''''
 #XRYPTA by SchynWong
-#Ref http://null-byte.wonderhowto.com/how-to/create-encryption-program-with-python-0164249/
+#Ref: http://null-byte.wonderhowto.com/how-to/create-encryption-program-with-python-0164249
