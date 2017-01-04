@@ -3,7 +3,7 @@ A malware studies project
 --------------------------
 
 This project is meant to be a practical starting point of malware studies for those who seek to understand such thing.
-I, SchynWong (Mikhail), do not bare guilty for anyone who shall use this script beyond academic purposes.
+I, SchynWong (Mikhail), shall not be hold liable for any of your actions performed.
 So ...
 Enjoy my piece of code, and have a great day ahead.
 
